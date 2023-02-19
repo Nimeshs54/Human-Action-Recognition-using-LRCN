@@ -37,7 +37,7 @@ We will also use [**`TimeDistributed`**](https://keras.io/api/layers/recurrent_l
 
 
 
-## Demo:
+## Output:
 
 https://user-images.githubusercontent.com/37257980/148107701-a4587386-9347-4b9c-8d08-29ab7c40ef65.mp4
 
